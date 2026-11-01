@@ -36,9 +36,8 @@ Currently exploring:
 [![HTML5](https://img.shields.io/badge/HTML5-Learning-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.com/)
 [![CSS3](https://img.shields.io/badge/CSS3-Learning-1572B6?style=flat-square&logo=css3&logoColor=white)](https://css3.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Coming%20Soon-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://javascript.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Exploring-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Exploring-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)                
 📌 My Philosophy
-
 "Small steps every day lead to remarkable changes."
 
 I'm here to learn, experiment, make mistakes, build projects, and document my journey.
