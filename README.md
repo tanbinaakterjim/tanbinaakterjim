@@ -52,5 +52,4 @@ I'm here to learn, experiment, make mistakes, build projects, and document my jo
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my learning journey.
-**tanbinaakterjim/tanbinaakterjim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
